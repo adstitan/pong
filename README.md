@@ -2,6 +2,9 @@
 
 Bem-vindo ao repositório do **Pong**, o clássico jogo porém em uma versão cyber!
 
+![Gameplay do Pong](assets/img/gameplay.gif)
+
+
 ---
 
 ## 🎮 Sobre o projeto
